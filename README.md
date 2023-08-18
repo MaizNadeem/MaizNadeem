@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Full Stack Developer | Lahore, Pakistan
 
-Contact: contact.maiznadeem@gmail.com | +92 314 4356722
-Portfolio: [maiz-portfolio.vercel.app](https://maiz-portfolio.vercel.app)
+- Contact: contact.maiznadeem@gmail.com
+- Portfolio: [maiz-portfolio.vercel.app](https://maiz-portfolio.vercel.app)
 
 ---
 
