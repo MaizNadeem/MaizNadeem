@@ -1,10 +1,10 @@
-# Hi there 👋
+# What's up? 👋
 ### Full Stack Developer | Lahore, Pakistan
 
 - Contact: contact.maiznadeem@gmail.com
 - Portfolio: [maiz-portfolio.vercel.app](https://maiz-portfolio.vercel.app)
 
-Full Stack Developer
+I’m interested in cloud computing, machine learning, and building AI-driven applications at scale. I don't like coding 24/7 tho.
 
 ## Skills
 
@@ -17,8 +17,8 @@ Other: Git, Cloudinary, Canva, Adobe Suite
 ## Find Me Online
 
 LinkedIn: [linkedin.com/in/maiznadeem](https://www.linkedin.com/in/maiznadeem)
-GitHub: [github.com/MaizNadeem](https://github.com/MaizNadeem)
-Twitter: [twitter.com/MaizNadeem](https://twitter.com/MaizNadeem)
+<br/>
+GitHub: [github.com/maiznadeem](https://github.com/maiznadeem)
 
 Feel free to reach out to me.
 
