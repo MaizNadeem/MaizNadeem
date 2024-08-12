@@ -8,11 +8,16 @@ I’m interested in cloud computing, machine learning, and building AI-driven ap
 
 ## Skills
 
-Client-Side: HTML, CSS, JS, React, Next JS, Tailwind, Bootstrap, Redux, React Query, XAML
+I don’t rely on a specific technology; rather, I focus on the app architecture and what suits best.
 
-Server-Side: Node JS, WPF, C#, JWT, Auth0, SQL, Azure, GCP, RESTful APIs, GraphQL, MongoDB, Express JS, Java, .NET
-
-Other: Git, Cloudinary, Canva, Adobe Suite
+**Languages:** Javascript, Python, C/C++, C#, SQL (MySQL, MSSQL), HTML/CSS
+<br/>
+**Frameworks:** React, Node.js (Express), React Native, Next.js, Windows Presentation Foundation (WPF), Material-UI, Tailwind CSS
+<br/>
+**Developer Tools:** Git, Docker, Google Cloud Platform (GCP), Amazon Web Services (AWS), Firebase, Google Colab, Kaggle
+<br/>
+**Libraries & Packages:** Auth0, Clerk, Expo, Redux, React Query, TensorFlow, Pytorch
+<br/>
 
 ## Find Me Online
 
